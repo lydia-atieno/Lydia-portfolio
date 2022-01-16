@@ -385,7 +385,7 @@ html{
     color: wheat;
 }
 #footer h2{
-    letter-spacing: .1rem;
+    letter-spacing: rem;
     margin-top: 10px;
     margin-bottom: 10px;
     font-size: 1rem;
