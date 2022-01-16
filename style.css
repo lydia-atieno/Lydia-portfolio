@@ -249,7 +249,7 @@ html{
 }
 #about .about p{
     text-align: justify;
-    max-width: 350px;
+    max-width: 250px;
     font-size: 1rem;
 }
 /*End About Section*/
@@ -388,7 +388,7 @@ html{
     letter-spacing: .1rem;
     margin-top: 10px;
     margin-bottom: 10px;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: wheat;
 }
 #footer .social-icon{
